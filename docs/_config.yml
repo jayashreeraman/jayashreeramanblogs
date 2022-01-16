@@ -40,3 +40,5 @@ tags_path : nil
 atom_path : nil
 rss_path : nil
 
+
+theme: jekyll-theme-minimal
