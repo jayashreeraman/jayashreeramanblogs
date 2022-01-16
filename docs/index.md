@@ -5,7 +5,7 @@ tagline: Easy websites with GitHub Pages
 description: Minimal tutorial on making a simple website with GitHub Pages
 ---
 
-## Welcome to GitHub Pages
+## Welcome to Jayashree Raman Blogs
 
 You can use the [editor on GitHub](https://github.com/jayashreeraman/jayashreeramanblogs/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
