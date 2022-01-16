@@ -2,7 +2,7 @@
 layout: page
 title: jayashreeramanblogs
 tagline: Working in Public
-description: How to Read Better
+description: How to Read
 ---
 
 # How To Read (aka Strategies to reduce Grad/Adult Life Struggles)
