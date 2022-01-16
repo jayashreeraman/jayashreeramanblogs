@@ -1,5 +1,8 @@
 ---
-title: Document Center
+layout: page
+title: jayashreeramanblogs
+tagline: Working in Public
+description: How to Read Better
 ---
 
 # How To Read (aka Strategies to reduce Grad/Adult Life Struggles)

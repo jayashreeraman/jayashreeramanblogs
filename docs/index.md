@@ -1,8 +1,8 @@
 ---
 layout: page
-title: simple site
-tagline: Easy websites with GitHub Pages
-description: Minimal tutorial on making a simple website with GitHub Pages
+title: jayashreeramanblogs
+tagline: Working in Public
+description: Clarifying my thinking by writing more
 ---
 
 ## Welcome to Jayashree Raman Blogs
