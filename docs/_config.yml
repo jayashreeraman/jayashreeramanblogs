@@ -1,3 +1,4 @@
+
 theme: jekyll-theme-minimal
 
 # This is the default format.
@@ -40,3 +41,4 @@ categories_path : nil
 tags_path : nil
 atom_path : nil
 rss_path : nil
+
