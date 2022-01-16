@@ -1,47 +1,76 @@
 ---
 layout: page
-title: jayashreeramanblogs
-tagline: Working in Public
-description: Clarifying my thinking by writing more
+title: simple site
+tagline: Easy websites with GitHub Pages
+description: Minimal tutorial on making a simple website with GitHub Pages
 ---
 
-## Welcome to Jayashree Raman Blogs
+[Github Pages](https://pages.github.com) provide a simple way to make a
+website using
+[Markdown](https://daringfireball.net/projects/markdown/) and
+[git](https://git-scm.com).
 
-You can use the [editor on GitHub](https://github.com/jayashreeraman/jayashreeramanblogs/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+For me, the painful aspects of making a website are
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- Working with html and css
+- Finding a hosting site
+- Transferring stuff to the hosting site
 
-### Markdown
+With [GitHub Pages](https://pages.github.com), you just write things in
+[Markdown](https://daringfireball.net/projects/markdown/),
+[GitHub](https://github.com) hosts the site for you, and you just push
+material to your GitHub repository with `git add`, `git commit`, and
+`git push`.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+If you love [git](https://git-scm.com/) and
+[GitHub](https://github.com), you'll love
+[GitHub Pages](https://pages.github.com), too.
 
-```markdown
-Syntax highlighted code block
+The sites use [Jekyll](https://jekyllrb.com/), a
+[ruby](https://www.ruby-lang.org/en/) [gem](https://rubygems.org/), to
+convert Markdown files to html, and this part is done
+automatically when you push the materials to the `gh-pages` branch
+of a GitHub repository.
 
-# Header 1
-## Header 2
-### Header 3
+The [GitHub](https://pages.github.com) and
+[Jekyll](https://jekyllrb.com) documentation is great, but I thought it
+would be useful to have a minimal tutorial, for those who just want to
+get going immediately with a simple site. To some readers, what GitHub
+has might be simpler and more direct.  But if you just want to create
+a site like the one you're looking at now, read on.
 
-- Bulleted
-- List
+Start by reading the [Overview page](pages/overview.html), which
+explains the basic structure of these sites. Then read
+[how to make an independent website](pages/independent_site.html). Then
+read any of the other things, such as
+[how to test your site locally](pages/local_test.html).
 
-1. Numbered
-2. List
+- [Overview](pages/overview.html)
+- [Making an independent website](pages/independent_site.html)
+- [Making a personal site](pages/user_site.html)
+- [Making a site for a project](pages/project_site.html)
+- [Making a jekyll-free site](pages/nojekyll.html)
+- [Testing your site locally](pages/local_test.html)
+- [Resources](pages/resources.html)
 
-**Bold** and _Italic_ and `Code` text
+If anything here is confusing (or _wrong_!), or if I've missed
+important details, please
+[submit an issue](https://github.com/kbroman/simple_site/issues), or (even
+better) fork [the GitHub repository for this website](https://github.com/kbroman/simple_site),
+make modifications, and submit a pull request.
 
-[Link](url) and ![Image](src)
-```
+---
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+The source for this minimal tutorial is [on github](https://github.com/kbroman/simple_site).
 
-### Jekyll Themes
+Also see my [tutorials](https://kbroman.org/tutorials) on
+[git/github](https://kbroman.org/github_tutorial),
+[GNU make](https://kbroman.org/minimal_make),
+[knitr](https://kbroman.org/knitr_knutshell),
+[R packages](https://kbroman.org/pkg_primer),
+[data organization](https://kbroman.org/dataorg),
+and [reproducible research](https://kbroman.org/steps2rr).
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jayashreeraman/jayashreeramanblogs/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 
 
 [Blog Post 1](https://jayashreeraman.github.io/jayashreeramanblogs/how_to_read)
