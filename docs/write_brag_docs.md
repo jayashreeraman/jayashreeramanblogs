@@ -1,8 +1,5 @@
 ---
 layout: page
-title: jayashreeramanblogs
-tagline: Working in Public
-description: Write Brag Docs
 ---
 
 # Just Write Brag Docs
