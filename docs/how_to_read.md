@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 ---
 
 # How To Read (aka Strategies to reduce Grad/Adult Life Struggles)
